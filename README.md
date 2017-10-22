@@ -1,4 +1,4 @@
-# Gulp (Browsersync, sass, js, imagemin and html)
+# gulpfile.js (browsersync, sass, js, imagemin and html)
 A basic gulpfile.js boilerplate.
 
 The code in `gulpfile.js` gets all the source folders and files from the `src` folder
